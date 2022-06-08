@@ -3,7 +3,7 @@
 ---
 # Kristofor Erickson
 
-kristoforerickson@gmail.com 727-238-6578 linkedin.com/in/kristoforerickson github.com/kristoforerickson
+kristoforerickson@gmail.com | linkedin.com/in/kristoforerickson 
 
 ___
 
