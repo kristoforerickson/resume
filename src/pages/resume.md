@@ -47,11 +47,11 @@ SaaS platform was available 99.99% and super performant, handling even the busie
 - Built custom integrations to 3 payment processing platforms
 - Rapidly delivered pre-sold features to customers
 
+
 ### Director Of Technology
 
 #### American Express
 <div align="right">February 2014 - June 2015, St Petersburg, FL</div>
-
 Working in the Enterprise Growth division of American Express under the leadership of Dan Schulman we worked hard to deliver a platform that was reliable, scaled, performant & fast to change. We created products including Serve, Walmart BlueBird, Target Prepaid
 RedCard, and collaborated with Intuit & Verizon on other products - all while providing bank-like services to the unbanked/underbanked
 population.
@@ -71,11 +71,11 @@ phone/voice
     - 9 onshore developers
     - 21 offshore developers
 
+
 ### Technical Lead
 
 #### American Express
 <div align="right">June 2012 - February 2014, Saint Petersburg, FL</div>
-
 - Lead a team of 3 onshore + 6 offshore developers
 - Lead the implementation of Bill Pay functionality in the Serve Platform
 - Lead the implementation of SoftCard (ISIS) NFC Wallet
@@ -87,18 +87,17 @@ phone/voice
 
 #### American Express
 <div align="right"> January 2012 - June 2012, Saint Petersburg, FL</div>
-
 - Key contributor on a large onshore + offshore team
 - Senior Software Engineer on the Serve Online team which was responsible for the ASP.NET MVC website that provided customer
 access to the Serve platform.
 - Part of the initial Serve product launch team
 - C#, ASP.NET MVC, WCF, Oracle
 
+
 ### Software Engineer III
 
 #### Raymond James Financial 
 <div align="right">July 2010 - January 2012, St. Petersburg, FL</div>
-
 Stack: C#, .NET 3.5/4.0, ASP.NET, ASP.NET MVC 2, SharePoint 2010, jQuery, Model View Presenter, Telerik, Visual Studio 2010,
 Borland StarTeam, HP Quality Center
 
@@ -119,11 +118,11 @@ successfully delivered the application on time
 - Client Center – Worked with a large team to develop a financial advisor application portal to decrease the number of applications a branch
 associate needs to utilize in order to perform their job while at the same time increasing the integration between existing applications.
 
+
 ### Senior Consultant
 
 #### Sogeti
 <div align="right">January 2008 - July 2010, Tampa, FL</div>
-
 Sogeti is one of the world’s leading IT consulting firms and a fully owned subsidiary of Capgemini. As a senior consultant I was able to
 accomplish sales, delivery, and mentorship. One of the major benefits of holding this position was my ability to learn several industries and
 technologies via the diversity of our clients. As a member of the Sogeti Microsoft Practice, my focus was custom application development
@@ -157,8 +156,8 @@ Stack - C#, .NET 2.0, ASP.NET, Visual SourceSafe 2005, Visual Studio 2005, SQL S
 
 ### Application Development Intern
 
-#### Florida Virtual School May 2006 - October 2007, Orlando, Florida Area
-
+#### Florida Virtual School
+<div align="right">May 2006 - October 2007, Orlando, FL</div>
 Stack: C#, .NET 2.0, ASP.NET, SourceGear Vault, Visual Studio 2005, SQL Server 2005, Web Services, Reporting Services
 
 Florida Virtual School is Florida’s online public high school and middle school serving over 70,000 enrollments a year. Virtual School Administrator is a web-based application that allows students to register for the school, enroll in courses, view grades, and receive messages
