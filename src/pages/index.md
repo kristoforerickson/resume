@@ -1,6 +1,9 @@
 ---
-
+import { Markdown } from 'astro/components';
+import Layout from '../layouts/Layout.astro';
 ---
+<Layout>
+  <Markdown>
 # Kristofor Erickson
 
 kristoforerickson@gmail.com | linkedin.com/in/kristoforerickson 
@@ -192,3 +195,6 @@ SQL, jQuery, Visual Studio, HTML, JavaScript, Databases, LINQ, T-SQL, XML, CSS, 
 Interpersonal Skills: Leadership
 
 
+
+  </Markdown>
+</Layout>
