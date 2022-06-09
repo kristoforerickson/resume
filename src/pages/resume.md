@@ -3,7 +3,7 @@
 ---
 # Kristofor Erickson
 
-kristoforerickson@gmail.com | linkedin.com/in/kristoforerickson 
+kristoforerickson@gmail.com | [linkedin.com/in/kristoforerickson](linkedin.com/in/kristoforerickson)
 
 ___
 
