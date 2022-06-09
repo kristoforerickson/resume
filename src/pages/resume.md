@@ -9,8 +9,8 @@ ___
 
 ## SUMMARY
 
-Software engineering Manager with 16 years of experience. Proven skills in optimizing and scaling large software solutions and teams. For the
-last 5 years, I have been freelancing full-time working on projects for startups, small businesses, international companies & government
+Hello 👋 I am a Software Engineering Manager with 16 years of experience. Throughout my career I have proven my skills in optimizing and scaling large software solutions and teams. For the
+last 6 years, I have been freelancing full-time working on projects for startups, small businesses, & government
 agencies focusing on e-Commerce, SaaS, FinTech, ERP & IoT solutions.
 
 ## EXPERIENCE
