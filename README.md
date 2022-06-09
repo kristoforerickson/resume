@@ -20,9 +20,9 @@ All commands are run from the root of the project, from a terminal:
 
 ## CloudFlare
 
-1- Setup a CloudFlare page
-2- Point the page to your repo & select Astro framework
-3- Configure a custom domain
+1. Setup a CloudFlare page
+2. Point the page to your repo & select Astro framework
+3. Configure a custom domain
 
 ## GitHub
 
