@@ -17,8 +17,15 @@ agencies focusing on e-Commerce, SaaS, FinTech, ERP & IoT solutions.
 
 ### Senior Software Engineering Manager
 
-#### Valkommen 
-<div align="right">December 2016 - Present, Winter Garden, FL</div>
+<div class="position">
+<div class="company">
+<b>Valkommen</b>
+</div>
+<div>
+December 2016 - Present, Winter Garden, FL
+</div>
+</div>
+<div class="job-description">
 Valkommen has delivered over 35 projects in 6 different languages working on greenfield development, maintaining existing codebases,
 fractional CTO services, and porting / modernization projects.
 
@@ -32,11 +39,17 @@ What I do:
 - Sales / Marketing
 - Client / Account Management
 - Customer Service
-
+</div>
 ### Senior Software Engineer
 
-#### orderTalk Inc. (acquired by Uber Technologies Inc.) 
-<div align="right">June 2015 - December 2016, Flower Mound, TX</div>
+<div class="position">
+<div class="company">
+<b>orderTalk Inc. (acquired by Uber Technologies Inc.)</b>
+</div>
+<div>
+June 2015 - December 2016, Flower Mound, TX
+</div>
+</div>
 orderTalk was an e-Commerce SaaS focusing on a white label click to order solution for large franchises including Jimmy Johns, Jason’s Deli,
 Cracker Barrel, Pizza Express, Jets Pizza and more.
 
@@ -50,8 +63,14 @@ SaaS platform was available 99.99% and super performant, handling even the busie
 
 ### Director Of Technology
 
-#### American Express
-<div align="right">February 2014 - June 2015, St Petersburg, FL</div>
+<div class="position">
+<div class="company">
+<b>American Express</b>
+</div>
+<div>
+February 2014 - June 2015, St Petersburg, FL
+</div>
+</div>
 Working in the Enterprise Growth division of American Express under the leadership of Dan Schulman we worked hard to deliver a platform that was reliable, scaled, performant & fast to change. We created products including Serve, Walmart BlueBird, Target Prepaid
 RedCard, and collaborated with Intuit & Verizon on other products - all while providing bank-like services to the unbanked/underbanked
 population.
@@ -74,8 +93,14 @@ phone/voice
 
 ### Technical Lead
 
-#### American Express
-<div align="right">June 2012 - February 2014, Saint Petersburg, FL</div>
+<div class="position">
+<div class="company">
+<b>American Express</b>
+</div>
+<div>
+June 2012 - February 2014, Saint Petersburg, FL
+</div>
+</div>
 - Lead a team of 3 onshore + 6 offshore developers
 - Lead the implementation of Bill Pay functionality in the Serve Platform
 - Lead the implementation of SoftCard (ISIS) NFC Wallet
@@ -85,8 +110,14 @@ phone/voice
 
 ### Senior Software Engineer
 
-#### American Express
-<div align="right"> January 2012 - June 2012, Saint Petersburg, FL</div>
+<div class="position">
+<div class="company">
+<b>American Express</b>
+</div>
+<div>
+January 2012 - June 2012, Saint Petersburg, FL
+</div>
+</div>
 - Key contributor on a large onshore + offshore team
 - Senior Software Engineer on the Serve Online team which was responsible for the ASP.NET MVC website that provided customer
 access to the Serve platform.
@@ -96,8 +127,14 @@ access to the Serve platform.
 
 ### Software Engineer III
 
-#### Raymond James Financial 
-<div align="right">July 2010 - January 2012, St. Petersburg, FL</div>
+<div class="position">
+<div class="company">
+<b>Raymond James Financial</b>
+</div>
+<div>
+July 2010 - January 2012, St. Petersburg, FL
+</div>
+</div>
 Stack: C#, .NET 3.5/4.0, ASP.NET, ASP.NET MVC 2, SharePoint 2010, jQuery, Model View Presenter, Telerik, Visual Studio 2010,
 Borland StarTeam, HP Quality Center
 
@@ -121,8 +158,14 @@ associate needs to utilize in order to perform their job while at the same time 
 
 ### Senior Consultant
 
-#### Sogeti
-<div align="right">January 2008 - July 2010, Tampa, FL</div>
+<div class="position">
+<div class="company">
+<b>Sogeti</b>
+</div>
+<div>
+January 2008 - July 2010, Tampa, FL
+</div>
+</div>
 Sogeti is one of the world’s leading IT consulting firms and a fully owned subsidiary of Capgemini. As a senior consultant I was able to
 accomplish sales, delivery, and mentorship. One of the major benefits of holding this position was my ability to learn several industries and
 technologies via the diversity of our clients. As a member of the Sogeti Microsoft Practice, my focus was custom application development
@@ -130,34 +173,38 @@ utilizing our partner’s tools and platforms. Listed below, where indicated, ar
 consultant at Sogeti.
 
 Client - Raymond James Financial
-Project - Advisor Desktop
-Role - .NET/Silverlight Developer
-Stack - C#, .NET 3.5/4.0, Silverlight 4, Infragistics 10.1, WCF, SOA, Model-View-ViewModel design pattern, Visual Studio 2010, HP
+- Project - Advisor Desktop
+- Role - .NET/Silverlight Developer
+- Stack - C#, .NET 3.5/4.0, Silverlight 4, Infragistics 10.1, WCF, SOA, Model-View-ViewModel design pattern, Visual Studio 2010, HP
 Quality Center
 
 Client - ProVest, LLC
-Project - HR SharePoint Implementation – Lead SharePoint Developer
-Stack - Windows Server 2008 R2 (VMWare Virtual), Microsoft SQL Server 2008, Windows SharePoint Services (WSS) 3.0, Microsoft
-Office SharePoint Server (MOSS) 2007 – Enterprise, Microsoft Office SharePoint Designer 2007
-
+- Project - HR SharePoint Implementation – Lead SharePoint Developer
+- Stack - Windows Server 2008 R2 (VMWare Virtual), Microsoft SQL Server 2008, Windows SharePoint Services (WSS) 3.0, Microsoft
+- Office SharePoint Server (MOSS) 2007 – Enterprise, Microsoft Office SharePoint Designer 2007
 
 Client - Raymond James Financial
-Project - Investor Access Redesign
-Role – Lead .NET Developer
-Stack - C#, .NET 3.5, ASP.NET/Web Parts, Visual Studio 2008, Borland StarTeam, Borland Caliber, HP Quality Center, Model-View-
+- Project - Investor Access Redesign
+- Role – Lead .NET Developer
+- Stack - C#, .NET 3.5, ASP.NET/Web Parts, Visual Studio 2008, Borland StarTeam, Borland Caliber, HP Quality Center, Model-View-
 Presenter design pattern, SOA, WCF
 
-
 Client - ScienTech
-Project - LabStatsIOA & FOMIS
-Role - .NET Developer
-Stack - C#, .NET 2.0, ASP.NET, Visual SourceSafe 2005, Visual Studio 2005, SQL Server 2000, Access 97-2003, Oracle 9i-10g
+- Project - LabStatsIOA & FOMIS
+- Role - .NET Developer
+- Stack - C#, .NET 2.0, ASP.NET, Visual SourceSafe 2005, Visual Studio 2005, SQL Server 2000, Access 97-2003, Oracle 9i-10g
 
 
 ### Application Development Intern
 
-#### Florida Virtual School
-<div align="right">May 2006 - October 2007, Orlando, FL</div>
+<div class="position">
+<div class="company">
+<b>Florida Virtual School</b>
+</div>
+<div>
+May 2006 - October 2007, Orlando, FL
+</div>
+</div>
 Stack: C#, .NET 2.0, ASP.NET, SourceGear Vault, Visual Studio 2005, SQL Server 2005, Web Services, Reporting Services
 
 Florida Virtual School is Florida’s online public high school and middle school serving over 70,000 enrollments a year. Virtual School Administrator is a web-based application that allows students to register for the school, enroll in courses, view grades, and receive messages
@@ -174,8 +221,8 @@ clients that licensed the software as well as keep up with changing state educat
 
 ## EDUCATION
 
-### MIS, Business  - 2007
-#### University of Central Florida 
+### Management Information Systems, BSBA
+#### University of Central Florida - 2007
 Orlando, FL 
 
 ## SKILLS

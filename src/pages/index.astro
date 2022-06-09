@@ -5,10 +5,41 @@ import {Content as Resume} from './resume.md';
 <html>
   <head>
     <title>Kristofor Erickson - Engineering Leader</title>
+
+    <style is:global>
+        body {
+            background: #dadada;
+        }
+        .container {
+            background: #fff; 
+            max-width:980px; 
+            margin: 0 auto; 
+            border: 1px solid #dadada; 
+            box-shadow: 7px 6px 10px 0px rgba(0,0,0,0.75);
+            -webkit-box-shadow: 7px 6px 10px 0px rgba(0,0,0,0.75);
+            -moz-box-shadow: 7px 6px 10px 0px rgba(0,0,0,0.75);
+            border-radius: 3px;
+        }
+        .container .resume {
+            padding: 50px 100px;
+        }
+        .position {
+            display:flex;
+            align-items:center;
+            height:20px;
+        }
+        .position .company {
+            flex:1;
+        }
+        .job-description {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+    </style>
   </head>
-  <body style="background: #dadada;">
-    <div style="background: #fff; width:75%; margin: 0 auto; padding-top: 20px; border: 1px solid #dadada; box-shadow: 7px 6px 10px 0px rgba(0,0,0,0.75);-webkit-box-shadow: 7px 6px 10px 0px rgba(0,0,0,0.75);-moz-box-shadow: 7px 6px 10px 0px rgba(0,0,0,0.75);border-radius: 3px;">
-        <div style="padding: 30px;">
+  <body>
+    <div class="container">
+        <div class="resume">
             <Resume />
         </div>
     </div>
